@@ -50,8 +50,3 @@ This project is divided into two parts:
 ## Conclusion
 
 This project demonstrates the increasing vulnerability of traditional CAPTCHA systems to modern AI models and introduces a **novel, human-centric alternative**. By leveraging **user interaction** and **intuitive tasks** like setting a clock, the **canvas clock CAPTCHA** provides strong resistance to automated attacks, outperforming static CAPTCHA methods in security and usability.
-
----
-
-## 📂 Repository Structure (Optional)
-
